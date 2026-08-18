@@ -1,0 +1,14 @@
+[
+  {
+    "id": "C001",
+    "title": "Introduction to Web Development",
+    "description": "A simple demo course.",
+    "videos": [
+      {
+        "title": "Welcome",
+        "type": "url",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      }
+    ]
+  }
+]
